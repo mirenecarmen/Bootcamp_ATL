@@ -1,0 +1,7 @@
+{
+  "category": "Lenguajes de programacion Fuertemente Tipados",
+  "question": "¿cual de estos lenguajes no es fuertemente tipado?",
+  "options": ["Java", "PHP", "C"],
+  "answer": 0,
+  "explanation": "Java es un lenguaje de programación fuertemente tipado porque cada variable debe declararse con un tipo de datos. Una variable no puede comenzar su vida sin conocer el rango de valores que puede contener, y una vez que se declara, el tipo de datos de la variable no puede cambiar."
+}

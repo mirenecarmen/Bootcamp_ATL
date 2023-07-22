@@ -1,0 +1,18 @@
+[
+  {
+    "category": "Lenguajes de programacion Fuertemente Tipados",
+    "description": "Preguntas relacionadas con lenguajes de programacion"
+  },
+  {
+    "category": "Lenguajes de programacion Debilmente Tipados",
+    "description": "Preguntas relacionadas con lenguajes de programacion"
+  },
+  {
+    "category": "Tipos de bases de datos Relacionales",
+    "description": "Preguntas relacionadas con bases de datos"
+  },
+  {
+    "category": "Tipos de Bases de datos No Relacionales",
+    "description": "Preguntas relacionadas con base de datos"
+  }
+]
